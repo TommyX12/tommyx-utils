@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tommyx_py_utils"
+version = "0.1.0"
+description = "A personal Python util library for TommyX"
+authors = [
+    {name = "TommyX"}
+]
+readme = ""
+requires-python = ">=3.8"
+dependencies = []
+
